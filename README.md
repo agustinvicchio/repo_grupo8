@@ -20,6 +20,15 @@ links para referencia de tienda:
 4. https://polotic.misiones.gob.ar/capacitaciones-2021/
 5. https://www.puravida.com.ar/
 
+Tarea para el martes: 
+Diseño de: 
+1. Homepage (Marce)
+2. detalle de producto (Agustin)
+3. carrito de compras (Martin)
+4. formulario del registro (Martin)
+5. formulario de LOGIN (Maxi)
 
+//opcional:
+1. Boceto o diseño grafico del sitio
 
 
