@@ -14,11 +14,11 @@ Martin Vasconcelo: Futuro analista de sistemas y padre de familia.
 Maximiliano Sarmiento: El que se quedo en la clase 5.
 
 links para referencia de tienda:
-1. https://www.sportfanatic.com.ar/
-2. https://www.skatedeluxe.com/en
-3. https://gbcskateshop.mitiendanube.com/
-4. https://polotic.misiones.gob.ar/capacitaciones-2021/
-5. https://www.puravida.com.ar/
+1. https://aminbike.co.il/
+2. https://www.racycles.com/?affid=ggSrch-ROW-Dyn-NB&gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7k3qC7WRMq56e_3SGKP50NOsmopITMzybxGIBlXCNqvdBDyXzZNMDRoCf8sQAvD_BwE
+3. https://www.bike-discount.de/en
+4. https://www.gobikeshop.com.ar/com.ar/
+5. https://rodarelectric.com/productos/time/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7jDApBbNCNCy1lClaa1t6swo6aoT3W4wSZQ80BEveNWFjN3FDzIaNRoCYG4QAvD_BwE
 
 Tarea para el martes: 
 Diseño de: 
