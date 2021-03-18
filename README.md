@@ -1,17 +1,17 @@
 Grupo 11:
 
 //Idea para nuetro proyecto integrador:
-Un E-Commerce que se dedica a la venta de skateboards, longboards , ropas y accesorios para todo el rubro de sakting.
+Un E-Commerce que se dedica a la venta de skateboards, longboards , ropas y accesorios para todo el rubro de biciletas.
 
 
 //Nuestro publico:
-Hombres y mujeres entre 15 - 55 años que estan dentro del universo sakte, o gente que usa ese tipo de ropa
+Hombres y mujeres entre 15 - 55 años que estan dentro del universo de la bicicletas, o gente que usa ese tipo de ropa
 
 Quienes somos: 
 Agustin Vicchio: Licensiado en marketing con pasion para emprender y aprender .
-Marcelo Sznek: Estudiante en la UTN si podes pensar lo poder programar.
+Marcelo Sznek: Estudiante en la UTN si lo podes pensar lo poder programar.
 Martin Vasconcelo: Futuro analista de sistemas y padre de familia.
-Maximiliano Sarmiento: El que se quedo en la calse 5.
+Maximiliano Sarmiento: El que se quedo en la clase 5.
 
 links para referencia de tienda:
 1. https://www.sportfanatic.com.ar/
