@@ -32,3 +32,13 @@ Diseño de:
 1. Boceto o diseño grafico del sitio
 
 
+
+segundo Sprint:
+
+En un arcihivo de prueba trabajar el header y el footer luego utilizarlos en los distintios archivos de la pagina Header + footer: HTML unico + un css de stylesheet con dos medidas
+
+Marce: Version escritorio
+Agus: Version Celulares 
+
+
+
